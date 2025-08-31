@@ -21,14 +21,6 @@ I’m passionate about building data-driven systems that solve real-world challe
 
 ---
 
-## 🚀 Favorite Project
-
-**📌 TaskXpert – EV Battery Assembly Optimization**  
-A web app using XGBoost + Flask to predict worker performance and assign tasks based on skills & certifications.<br>
-Built to optimize productivity and reduce inefficiencies in EV manufacturing.
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🥈 **2nd Place – HULT Prize:** For pitching a sustainable clothing startup.
