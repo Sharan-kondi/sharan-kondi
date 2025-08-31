@@ -1,6 +1,6 @@
 <!-- Typing animation headline -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=450&lines=AI%2FML+Student;Big+Data+Enthusiast;Problem+Solver" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=450&lines=AI%2FML+Student" alt="Typing animation" />
 </h1>
 
 
