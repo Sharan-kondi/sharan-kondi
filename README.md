@@ -26,16 +26,6 @@ I’m passionate about building data-driven systems that solve real-world challe
 - 🥈 **2nd Place – HULT Prize:** For pitching a sustainable clothing startup.
 - 🏆 **Winner – Vision Venture & Startup Saga:** Entrepreneurship competitions.
 - 📜 **Certifications:** Machine Learning, Deep Learning, and Big Data Analytics (Coursera & College initiatives).
-- 🎓 **Student of the Year:** Excellence in academics & extracurriculars.
-
----
-
-## 🎨 Fun Facts & Hobbies
-
-- 🌍 Love exploring AI for social good — from crop prediction systems to healthcare optimization.
-- 🎤 Enjoy public speaking & pitching startup ideas.
-- 📸 Hobby photographer and cricket enthusiast 🏏.
-- 🎶 Find me curating playlists when not building ML models.
 
 ---
 
