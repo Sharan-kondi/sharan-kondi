@@ -21,29 +21,8 @@ I’m passionate about building data-driven systems that solve real-world challe
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥈 **2nd Place – HULT Prize:** For pitching a sustainable clothing startup.
-- 🏆 **Winner – Vision Venture & Startup Saga:** Entrepreneurship competitions.
-- 📜 **Certifications:** Machine Learning, Deep Learning, and Big Data Analytics (Coursera & College initiatives).
-
----
-
 ## 📫 Let’s Connect
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Sharan-kondi)](https://github.com/Sharan-kondi)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:sharankondi2431@gmail.com)](mailto:sharankondi2431@gmail.com)
 
----
 
-
-<details>
-  <summary>📁 My Portfolio & More</summary>
-  
-  - [Portfolio Website](#) <!-- Add your actual portfolio link -->
-  - [Resume PDF](#) <!-- Add your actual resume link -->
-  - [Medium Articles](#) <!-- Add your blog/medium link if any -->
-</details>
-
----
-
-*Thanks for visiting my profile! 🚀*
